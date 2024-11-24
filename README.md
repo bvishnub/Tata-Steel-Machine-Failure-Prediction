@@ -13,7 +13,6 @@ This project aims to develop a machine learning model that predicts machine fail
 ---
 
 ## Table of Contents
-- [Objective](#objective)
 - [Dataset Variables](#dataset-variables)
 - [Built With](#built-with)
 - [Steps Involved For Analysis](#steps-involved-for-analysis)
